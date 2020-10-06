@@ -4,6 +4,8 @@
 
 # Introduction
 
+This is jdaho Neovim configuration with my changes and more plugins.
+
 This is my Neovim configuration for all the platforms I use (Linux, Windows and
 macOS). `init.vim` is the config file for terminal Neovim, and `ginit.vim` is
 the additional config file for GUI client of Neovim (I am using
